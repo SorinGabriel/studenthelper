@@ -1,0 +1,113 @@
+
+	.top
+	{
+	display:inline-block;
+	}
+	
+	header
+	{
+		width:30%;
+		font-size:100%;
+	}
+	
+	header h1
+	{
+		font-family:Quicksand;
+		text-shadow:2px 2px black;
+		color:black;
+		font-size:2.5em;
+		margin-left:2em;
+	}
+	
+	nav
+	{
+	   -webkit-animation: indentmenu 1s; /* Chrome, Safari, Opera */
+		animation: indentmenu 1s;
+	}
+		
+	@-webkit-keyframes indentmenu {
+		from {margin-left: -200px;
+		opacity:0.1;}
+		to {margin-left:0px;
+		opacity:1;}
+	}
+
+	@keyframes indentmenu {
+		from {margin-left: -200px;
+		opacity:0.1;}
+		to {margin-left:0px;
+		opacity:1;}
+	}
+	
+	nav ul
+	{
+		list-style-type:none;
+		margin:0;
+		padding:0;
+	}
+	
+	nav ul li
+	{
+		display:inline-block;
+		padding:1em;
+	}
+	
+	nav ul li a
+	{
+		font-family:'Montserrat';
+		text-decoration:none;
+		color:black;
+	}
+	
+	nav ul li:hover
+	{
+		background-color:black;
+		transition:all 0.5s;
+	}
+	
+	nav ul li:hover a
+	{
+		color:white;
+		transition:all 0.5s;
+	}
+	
+	nav ul li ul li
+	{
+		display:none;
+		width:auto;
+	}
+	
+	nav ul li:hover ul
+	{
+		background-color:black;
+		width:12.9em;
+		margin-left:-1em;
+		display:block;
+		position:absolute;
+		z-index:1;
+		margin-top:1em;
+	}
+	
+	nav ul li:hover ul li
+	{
+		display:block;
+	}
+	
+	nav ul li:hover ul li a
+	{
+		color:white;
+		text-decoration:none;
+	}
+	
+	nav ul li ul li:hover
+	{
+		background-color:white;
+		transition:all 0.5s;
+	}
+	
+	nav ul li ul li:hover a
+	{
+		font-family:'Montserrat';
+		color:black;
+		transition:all 0.5s;
+	}

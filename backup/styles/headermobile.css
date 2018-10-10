@@ -1,0 +1,98 @@
+
+	body
+	{
+		margin:0;
+		background: white; /* For browsers that do not support gradients */
+		background: -webkit-linear-gradient(left top,white, #DCDCDC); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(bottom right,white, #DCDCDC); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(bottom right,white, #DCDCDC); /* For Firefox 3.6 to 15 */
+		background: linear-gradient(to bottom right,white, #DCDCDC); /* Standard syntax */
+		background-size:100% 100%;
+		background-attachment:fixed;
+	}
+	
+	header
+	{
+		width:100%;
+		font-size:100%;
+	}
+	
+	header h1
+	{
+		font-family:Shadows Into Light;
+		font-size:2.5em;
+		text-align:center;
+	}
+	
+	nav
+	{
+	   -webkit-animation: indentmenu 1s; /* Chrome, Safari, Opera */
+		animation: indentmenu 1s;
+	}
+		
+	@-webkit-keyframes indentmenu {
+		from {margin-left: -200px;
+		opacity:0.1;}
+		to {margin-left:0px;
+		opacity:1;}
+	}
+
+	@keyframes indentmenu {
+		from {margin-left: -200px;
+		opacity:0.1;}
+		to {margin-left:0px;
+		opacity:1;}
+	}
+	
+	nav ul
+	{
+		list-style-type:none;
+		margin:0;
+		padding:0;
+	}
+	
+	nav ul li
+	{
+		padding:0.5em;
+		padding-left:1.5em;
+	}
+	
+	nav ul li a
+	{
+		font-family:'Montserrat';
+		text-decoration:none;
+		color:black;
+	}
+	
+	#dropdown ul li:hover a
+	{
+		color:white;
+	}
+	
+	nav ul li:hover
+	{
+		background-color:black;
+		transition:all 0.5s;
+	}
+	
+	nav ul li:hover a
+	{
+		color:white;
+		transition:all 0.5s;
+	}
+	
+	nav ul li ul
+	{
+		margin-top:1em;
+	}
+	
+	#dropdown:hover
+	{
+		background-color:transparent;
+	}
+	
+	#dropdown:hover a
+	{
+		color:black;
+	}
+	

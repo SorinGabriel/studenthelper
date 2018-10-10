@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2fe83d9-43b3-4cd1-a3b8-44ebf4b9a129" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="categtest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/categtest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cautarearticole.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cautarearticole.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lostpassword.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phplib/lostpassword.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2414">
+              <caret line="147" column="13" lean-forward="false" selection-start-line="147" selection-start-column="13" selection-end-line="147" selection-end-column="13" />
+              <folding>
+                <marker date="1498479211479" expanded="true" signature="226:271" ph="SELECT data,... cereriparola" />
+                <marker date="1498479211479" expanded="true" signature="890:925" ph="DELETE FROM " />
+                <marker date="1498479211479" expanded="true" signature="1528:1573" ph="SELECT user cereriparola" />
+                <marker date="1498479211479" expanded="true" signature="2084:2124" ph="DELETE FROM " />
+                <marker date="1498479211479" expanded="true" signature="2761:2810" ph="UPDATE utili... " />
+                <marker date="1498479211479" expanded="true" signature="4352:4411" ph="INSERT INTO cereriparola... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articles.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phplib/articles.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3570">
+              <caret line="210" column="30" lean-forward="false" selection-start-line="210" selection-start-column="30" selection-end-line="210" selection-end-column="30" />
+              <folding>
+                <marker date="1498547957803" expanded="true" signature="330:378" ph="SELECT count... articole" />
+                <marker date="1498547957803" expanded="true" signature="1286:1352" ph="INSERT INTO `articole`... " />
+                <marker date="1498547957803" expanded="true" signature="2631:2691" ph="UPDATE `arti... " />
+                <marker date="1498547957803" expanded="true" signature="3884:3923" ph="DELETE FROM " />
+                <marker date="1498547957803" expanded="true" signature="4257:4299" ph="DELETE FROM " />
+                <marker date="1498547957803" expanded="true" signature="4639:4684" ph="DELETE FROM " />
+                <marker date="1498547957803" expanded="true" signature="5203:5279" ph="INSERT INTO `comentarticole`... " />
+                <marker date="1498547957803" expanded="true" signature="5716:5753" ph="DELETE FROM " />
+                <marker date="1498547957803" expanded="true" signature="6142:6190" ph="SELECT utili... comentarticole" />
+                <marker date="1498547957803" expanded="true" signature="6562:6702" ph="SELECT ca.id... comentarticole" />
+                <marker date="1498547957803" expanded="true" signature="7106:7184" ph="..." />
+                <marker date="1498547957803" expanded="true" signature="7224:7305" ph="..." />
+                <marker date="1498547957803" expanded="true" signature="7270:7305" ph="..." />
+                <marker date="1498547957803" expanded="true" signature="7466:7616" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascripts/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3196">
+              <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="changepass.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpscripts/changepass.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qa.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phplib/qa.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8330">
+              <caret line="490" column="260" lean-forward="false" selection-start-line="490" selection-start-column="260" selection-end-line="490" selection-end-column="260" />
+              <folding>
+                <marker date="1498551155615" expanded="true" signature="328:365" ph="SELECT count... qacat" />
+                <marker date="1498551155615" expanded="true" signature="1337:1379" ph="INSERT INTO qacat... " />
+                <marker date="1498551155615" expanded="true" signature="1686:1730" ph="SELECT id FR... qacat" />
+                <marker date="1498551155615" expanded="true" signature="2396:2423" ph="SELECT nume,... qacat" />
+                <marker date="1498551155615" expanded="true" signature="2930:2955" ph="SELECT nume,... qacat" />
+                <marker date="1498551155615" expanded="true" signature="3856:3889" ph="SELECT page qacat" />
+                <marker date="1498551155615" expanded="true" signature="4258:4286" ph="DELETE FROM " />
+                <marker date="1498551155615" expanded="true" signature="4592:4669" ph="DELETE FROM " />
+                <marker date="1498551155615" expanded="true" signature="4629:4668" ph="SELECT id FR... qapost" />
+                <marker date="1498551155615" expanded="true" signature="4975:5011" ph="DELETE FROM " />
+                <marker date="1498551155615" expanded="true" signature="5614:5642" ph="SELECT max(g... qapost" />
+                <marker date="1498551155615" expanded="true" signature="6061:6141" ph="INSERT INTO qapost... " />
+                <marker date="1498551155615" expanded="true" signature="6799:6839" ph="SELECT mesaj... qapost" />
+                <marker date="1498551155615" expanded="true" signature="7680:7726" ph="UPDATE qapos... " />
+                <marker date="1498551155615" expanded="true" signature="8092:8184" ph="SELECT subie... qapost" />
+                <marker date="1498551155615" expanded="true" signature="8642:8693" ph="SELECT * FRO... qapost" />
+                <marker date="1498551155615" expanded="true" signature="9109:9189" ph="INSERT INTO qapost... " />
+                <marker date="1498551155615" expanded="true" signature="9897:9941" ph="SELECT date,... " />
+                <marker date="1498551155615" expanded="true" signature="10652:10728" ph="SELECT min(d... qapost" />
+                <marker date="1498551155615" expanded="true" signature="10693:10727" ph="SELECT grup qapost" />
+                <marker date="1498551155615" expanded="true" signature="11139:11211" ph="DELETE FROM " />
+                <marker date="1498551155615" expanded="true" signature="11176:11210" ph="SELECT id FR... qapost" />
+                <marker date="1498551155615" expanded="true" signature="11555:11586" ph="DELETE FROM " />
+                <marker date="1498551155615" expanded="true" signature="11941:11975" ph="DELETE FROM " />
+                <marker date="1498551155615" expanded="true" signature="12314:12343" ph="DELETE FROM " />
+                <marker date="1498551155615" expanded="true" signature="12794:12829" ph="SELECT nume qacat" />
+                <marker date="1498551155615" expanded="true" signature="13441:13551" ph="SELECT count... qapost" />
+                <marker date="1498551155615" expanded="true" signature="13487:13534" ph="SELECT min(d... qapost" />
+                <marker date="1498551155615" expanded="true" signature="13940:13973" ph="SELECT page qacat" />
+                <marker date="1498551155615" expanded="true" signature="14390:14526" ph="SELECT * FRO... qapost" />
+                <marker date="1498551155615" expanded="true" signature="14448:14495" ph="SELECT min(d... qapost" />
+                <marker date="1498551155615" expanded="true" signature="14561:14953" ph="SELECT qp.id... qapost" />
+                <marker date="1498551155615" expanded="true" signature="14665:14803" ph="SELECT qp.id... qapost" />
+                <marker date="1498551155615" expanded="true" signature="14868:14915" ph="SELECT min(d... qapost" />
+                <marker date="1498551155615" expanded="true" signature="15402:15416" ph="..." />
+                <marker date="1498551155615" expanded="true" signature="15936:15947" ph="..." />
+                <marker date="1498551155615" expanded="true" signature="16166:16180" ph="..." />
+                <marker date="1498551155615" expanded="true" signature="17320:17334" ph="..." />
+                <marker date="1498551155615" expanded="true" signature="17888:17965" ph="SELECT qc.nu... qacat" />
+                <marker date="1498551155615" expanded="true" signature="18569:18609" ph="SELECT count... qapost" />
+                <marker date="1498551155615" expanded="true" signature="19014:19072" ph="SELECT * FRO... qapost" />
+                <marker date="1498551155615" expanded="true" signature="19497:19508" ph="..." />
+                <marker date="1498551155615" expanded="true" signature="19734:19748" ph="..." />
+                <marker date="1498551155615" expanded="true" signature="22258:22272" ph="..." />
+                <marker date="1498551155615" expanded="true" signature="22779:22798" ph="SELECT * FRO... qacat" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chestionare.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phplib/chestionare.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6392">
+              <caret line="376" column="270" lean-forward="false" selection-start-line="376" selection-start-column="270" selection-end-line="376" selection-end-column="270" />
+              <folding>
+                <marker date="1498551291559" expanded="true" signature="326:377" ph="SELECT count... categorichestionare" />
+                <marker date="1498551291559" expanded="true" signature="1384:1440" ph="INSERT INTO categorichestionare... " />
+                <marker date="1498551291559" expanded="true" signature="1759:1817" ph="SELECT id FR... categorichestionare" />
+                <marker date="1498551291559" expanded="true" signature="2568:2607" ph="SELECT nume,... categorichestionare" />
+                <marker date="1498551291559" expanded="true" signature="3273:3314" ph="SELECT nume,... categorichestionare" />
+                <marker date="1498551291559" expanded="true" signature="4178:4225" ph="SELECT page categorichestionare" />
+                <marker date="1498551291559" expanded="true" signature="4622:4664" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="4976:5072" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="5030:5071" ph="SELECT id FR... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="5384:5472" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="5430:5471" ph="SELECT id FR... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="5784:5822" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="6431:6479" ph="SELECT count... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="6943:6957" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="7475:7581" ph="SELECT id,ti... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="7616:7951" ph="SELECT c.id,... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="7710:7868" ph="SELECT cc.id... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="8634:8645" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="8674:9767" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="8708:9541" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="8800:9049" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="9145:9509" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="9563:9743" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="9623:9732" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="10385:10396" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="10425:11316" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="10459:11292" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="10551:10800" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="10896:11260" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="11866:11877" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="11906:12797" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="11940:12773" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="12032:12281" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="12377:12741" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="13435:13449" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="14074:14121" ph="SELECT count... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="14507:14554" ph="SELECT page categorichestionare" />
+                <marker date="1498551291559" expanded="true" signature="14981:14995" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="15513:15618" ph="SELECT id,ti... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="15653:15987" ph="SELECT c.id,... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="15747:15905" ph="SELECT cc.id... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="16670:16681" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="16710:17803" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="16744:17577" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="16836:17085" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="17181:17545" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="17599:17779" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="17659:17768" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="18427:18438" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="18467:19358" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="18501:19334" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="18593:18842" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="18938:19302" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="19905:19916" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="19945:20836" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="19979:20812" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="20071:20320" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="20416:20780" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="21474:21488" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="22256:22343" ph="INSERT INTO chestionare... " />
+                <marker date="1498551291559" expanded="true" signature="22922:23035" ph="INSERT INTO intrebari... " />
+                <marker date="1498551291559" expanded="true" signature="23753:23795" ph="SELECT user_... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="24427:24478" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="24790:24833" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="25139:25173" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="25479:25522" ph="DELETE FROM " />
+                <marker date="1498551291559" expanded="true" signature="25997:26039" ph="SELECT user_... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="26450:26461" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="27016:27076" ph="SELECT titlu... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="27872:27918" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="28144:28189" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="28414:28461" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="28660:28704" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="28874:28919" ph="SELECT * FRO... intrebari" />
+                <marker date="1498551291559" expanded="true" signature="31327:31384" ph="SELECT count... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="33469:33529" ph="SELECT titlu... chestionare" />
+                <marker date="1498551291559" expanded="true" signature="34300:34345" ph="SELECT * FRO... intrebari" />
+                <marker date="1498551291559" expanded="true" signature="34804:34816" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="36176:36188" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="36452:36464" ph="..." />
+                <marker date="1498551291559" expanded="true" signature="37960:38010" ph="SELECT corec... intrebari" />
+                <marker date="1498551291559" expanded="true" signature="38618:38701" ph="INSERT INTO rezultate... " />
+                <marker date="1498551291559" expanded="true" signature="39210:39281" ph="SELECT corec... rezultate" />
+                <marker date="1498551291559" expanded="true" signature="39920:39953" ph="SELECT * FRO... categorichestionare" />
+                <marker date="1498551291559" expanded="true" signature="40649:40694" ph="SELECT titlu... chestionare" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>localhost</find>
+      <find>comment</find>
+      <find>show</find>
+      <find>canvas</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/phplib/articles.php" />
+        <option value="$PROJECT_DIR$/javascripts/scripts.js" />
+        <option value="$PROJECT_DIR$/phplib/qa.php" />
+        <option value="$PROJECT_DIR$/phplib/chestionare.php" />
+        <option value="$PROJECT_DIR$/phpscripts/changepass.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpscripts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phplib" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/sh2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2fe83d9-43b3-4cd1-a3b8-44ebf4b9a129" name="Default" comment="" />
+      <created>1498482988369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498482988369</updated>
+      <workItem from="1498483000960" duration="1481000" />
+      <workItem from="1498547940207" duration="4086000" />
+      <workItem from="1498556070967" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5631000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/categtest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautarearticole.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/lostpassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="147" column="13" lean-forward="false" selection-start-line="147" selection-start-column="13" selection-end-line="147" selection-end-column="13" />
+          <folding>
+            <marker date="1498479211479" expanded="true" signature="226:271" ph="SELECT data,... cereriparola" />
+            <marker date="1498479211479" expanded="true" signature="890:925" ph="DELETE FROM " />
+            <marker date="1498479211479" expanded="true" signature="1528:1573" ph="SELECT user cereriparola" />
+            <marker date="1498479211479" expanded="true" signature="2084:2124" ph="DELETE FROM " />
+            <marker date="1498479211479" expanded="true" signature="2761:2810" ph="UPDATE utili... " />
+            <marker date="1498479211479" expanded="true" signature="4352:4411" ph="INSERT INTO cereriparola... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/articles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="210" column="30" lean-forward="true" selection-start-line="210" selection-start-column="30" selection-end-line="210" selection-end-column="30" />
+          <folding>
+            <marker date="1498547957803" expanded="true" signature="330:378" ph="SELECT count... articole" />
+            <marker date="1498547957803" expanded="true" signature="1286:1352" ph="INSERT INTO `articole`... " />
+            <marker date="1498547957803" expanded="true" signature="2631:2691" ph="UPDATE `arti... " />
+            <marker date="1498547957803" expanded="true" signature="3884:3923" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="4257:4299" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="4639:4684" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="5203:5279" ph="INSERT INTO `comentarticole`... " />
+            <marker date="1498547957803" expanded="true" signature="5716:5753" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="6142:6190" ph="SELECT utili... comentarticole" />
+            <marker date="1498547957803" expanded="true" signature="6562:6702" ph="SELECT ca.id... comentarticole" />
+            <marker date="1498547957803" expanded="true" signature="7106:7184" ph="..." />
+            <marker date="1498547957803" expanded="true" signature="7224:7305" ph="..." />
+            <marker date="1498547957803" expanded="true" signature="7270:7305" ph="..." />
+            <marker date="1498547957803" expanded="true" signature="7466:7616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="0" lean-forward="true" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpscripts/changepass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/qa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8330">
+          <caret line="490" column="260" lean-forward="false" selection-start-line="490" selection-start-column="260" selection-end-line="490" selection-end-column="260" />
+          <folding>
+            <marker date="1498551155615" expanded="true" signature="328:365" ph="SELECT count... qacat" />
+            <marker date="1498551155615" expanded="true" signature="1337:1379" ph="INSERT INTO qacat... " />
+            <marker date="1498551155615" expanded="true" signature="1686:1730" ph="SELECT id FR... qacat" />
+            <marker date="1498551155615" expanded="true" signature="2396:2423" ph="SELECT nume,... qacat" />
+            <marker date="1498551155615" expanded="true" signature="2930:2955" ph="SELECT nume,... qacat" />
+            <marker date="1498551155615" expanded="true" signature="3856:3889" ph="SELECT page qacat" />
+            <marker date="1498551155615" expanded="true" signature="4258:4286" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="4592:4669" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="4629:4668" ph="SELECT id FR... qapost" />
+            <marker date="1498551155615" expanded="true" signature="4975:5011" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="5614:5642" ph="SELECT max(g... qapost" />
+            <marker date="1498551155615" expanded="true" signature="6061:6141" ph="INSERT INTO qapost... " />
+            <marker date="1498551155615" expanded="true" signature="6799:6839" ph="SELECT mesaj... qapost" />
+            <marker date="1498551155615" expanded="true" signature="7680:7726" ph="UPDATE qapos... " />
+            <marker date="1498551155615" expanded="true" signature="8092:8184" ph="SELECT subie... qapost" />
+            <marker date="1498551155615" expanded="true" signature="8642:8693" ph="SELECT * FRO... qapost" />
+            <marker date="1498551155615" expanded="true" signature="9109:9189" ph="INSERT INTO qapost... " />
+            <marker date="1498551155615" expanded="true" signature="9897:9941" ph="SELECT date,... " />
+            <marker date="1498551155615" expanded="true" signature="10652:10728" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="10693:10727" ph="SELECT grup qapost" />
+            <marker date="1498551155615" expanded="true" signature="11139:11211" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="11176:11210" ph="SELECT id FR... qapost" />
+            <marker date="1498551155615" expanded="true" signature="11555:11586" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="11941:11975" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="12314:12343" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="12794:12829" ph="SELECT nume qacat" />
+            <marker date="1498551155615" expanded="true" signature="13441:13551" ph="SELECT count... qapost" />
+            <marker date="1498551155615" expanded="true" signature="13487:13534" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="13940:13973" ph="SELECT page qacat" />
+            <marker date="1498551155615" expanded="true" signature="14390:14526" ph="SELECT * FRO... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14448:14495" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14561:14953" ph="SELECT qp.id... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14665:14803" ph="SELECT qp.id... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14868:14915" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="15402:15416" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="15936:15947" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="16166:16180" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="17320:17334" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="17888:17965" ph="SELECT qc.nu... qacat" />
+            <marker date="1498551155615" expanded="true" signature="18569:18609" ph="SELECT count... qapost" />
+            <marker date="1498551155615" expanded="true" signature="19014:19072" ph="SELECT * FRO... qapost" />
+            <marker date="1498551155615" expanded="true" signature="19497:19508" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="19734:19748" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="22258:22272" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="22779:22798" ph="SELECT * FRO... qacat" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/chestionare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6392">
+          <caret line="376" column="270" lean-forward="false" selection-start-line="376" selection-start-column="270" selection-end-line="376" selection-end-column="270" />
+          <folding>
+            <marker date="1498551291559" expanded="true" signature="326:377" ph="SELECT count... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="1384:1440" ph="INSERT INTO categorichestionare... " />
+            <marker date="1498551291559" expanded="true" signature="1759:1817" ph="SELECT id FR... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="2568:2607" ph="SELECT nume,... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="3273:3314" ph="SELECT nume,... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="4178:4225" ph="SELECT page categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="4622:4664" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="4976:5072" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="5030:5071" ph="SELECT id FR... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="5384:5472" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="5430:5471" ph="SELECT id FR... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="5784:5822" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="6431:6479" ph="SELECT count... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="6943:6957" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="7475:7581" ph="SELECT id,ti... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="7616:7951" ph="SELECT c.id,... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="7710:7868" ph="SELECT cc.id... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="8634:8645" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="8674:9767" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="8708:9541" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="8800:9049" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="9145:9509" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="9563:9743" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="9623:9732" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10385:10396" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10425:11316" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10459:11292" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10551:10800" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10896:11260" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="11866:11877" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="11906:12797" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="11940:12773" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="12032:12281" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="12377:12741" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="13435:13449" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="14074:14121" ph="SELECT count... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="14507:14554" ph="SELECT page categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="14981:14995" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="15513:15618" ph="SELECT id,ti... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="15653:15987" ph="SELECT c.id,... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="15747:15905" ph="SELECT cc.id... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="16670:16681" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="16710:17803" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="16744:17577" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="16836:17085" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="17181:17545" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="17599:17779" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="17659:17768" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18427:18438" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18467:19358" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18501:19334" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18593:18842" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18938:19302" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="19905:19916" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="19945:20836" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="19979:20812" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="20071:20320" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="20416:20780" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="21474:21488" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="22256:22343" ph="INSERT INTO chestionare... " />
+            <marker date="1498551291559" expanded="true" signature="22922:23035" ph="INSERT INTO intrebari... " />
+            <marker date="1498551291559" expanded="true" signature="23753:23795" ph="SELECT user_... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="24427:24478" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="24790:24833" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="25139:25173" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="25479:25522" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="25997:26039" ph="SELECT user_... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="26450:26461" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="27016:27076" ph="SELECT titlu... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="27872:27918" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28144:28189" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28414:28461" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28660:28704" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28874:28919" ph="SELECT * FRO... intrebari" />
+            <marker date="1498551291559" expanded="true" signature="31327:31384" ph="SELECT count... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="33469:33529" ph="SELECT titlu... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="34300:34345" ph="SELECT * FRO... intrebari" />
+            <marker date="1498551291559" expanded="true" signature="34804:34816" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="36176:36188" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="36452:36464" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="37960:38010" ph="SELECT corec... intrebari" />
+            <marker date="1498551291559" expanded="true" signature="38618:38701" ph="INSERT INTO rezultate... " />
+            <marker date="1498551291559" expanded="true" signature="39210:39281" ph="SELECT corec... rezultate" />
+            <marker date="1498551291559" expanded="true" signature="39920:39953" ph="SELECT * FRO... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="40649:40694" ph="SELECT titlu... chestionare" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categtest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautarearticole.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/lostpassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1498479211479" expanded="true" signature="226:271" ph="SELECT data,... cereriparola" />
+            <marker date="1498479211479" expanded="true" signature="890:925" ph="DELETE FROM " />
+            <marker date="1498479211479" expanded="true" signature="1528:1573" ph="SELECT user cereriparola" />
+            <marker date="1498479211479" expanded="true" signature="2084:2124" ph="DELETE FROM " />
+            <marker date="1498479211479" expanded="true" signature="2761:2810" ph="UPDATE utili... " />
+            <marker date="1498479211479" expanded="true" signature="4352:4411" ph="INSERT INTO cereriparola... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categtest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautarearticole.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/lostpassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="147" column="13" lean-forward="false" selection-start-line="147" selection-start-column="13" selection-end-line="147" selection-end-column="13" />
+          <folding>
+            <marker date="1498479211479" expanded="true" signature="226:271" ph="SELECT data,... cereriparola" />
+            <marker date="1498479211479" expanded="true" signature="890:925" ph="DELETE FROM " />
+            <marker date="1498479211479" expanded="true" signature="1528:1573" ph="SELECT user cereriparola" />
+            <marker date="1498479211479" expanded="true" signature="2084:2124" ph="DELETE FROM " />
+            <marker date="1498479211479" expanded="true" signature="2761:2810" ph="UPDATE utili... " />
+            <marker date="1498479211479" expanded="true" signature="4352:4411" ph="INSERT INTO cereriparola... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/articles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="210" column="30" lean-forward="false" selection-start-line="210" selection-start-column="30" selection-end-line="210" selection-end-column="30" />
+          <folding>
+            <marker date="1498547957803" expanded="true" signature="330:378" ph="SELECT count... articole" />
+            <marker date="1498547957803" expanded="true" signature="1286:1352" ph="INSERT INTO `articole`... " />
+            <marker date="1498547957803" expanded="true" signature="2631:2691" ph="UPDATE `arti... " />
+            <marker date="1498547957803" expanded="true" signature="3884:3923" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="4257:4299" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="4639:4684" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="5203:5279" ph="INSERT INTO `comentarticole`... " />
+            <marker date="1498547957803" expanded="true" signature="5716:5753" ph="DELETE FROM " />
+            <marker date="1498547957803" expanded="true" signature="6142:6190" ph="SELECT utili... comentarticole" />
+            <marker date="1498547957803" expanded="true" signature="6562:6702" ph="SELECT ca.id... comentarticole" />
+            <marker date="1498547957803" expanded="true" signature="7106:7184" ph="..." />
+            <marker date="1498547957803" expanded="true" signature="7224:7305" ph="..." />
+            <marker date="1498547957803" expanded="true" signature="7270:7305" ph="..." />
+            <marker date="1498547957803" expanded="true" signature="7466:7616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/qa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8330">
+          <caret line="490" column="260" lean-forward="false" selection-start-line="490" selection-start-column="260" selection-end-line="490" selection-end-column="260" />
+          <folding>
+            <marker date="1498551155615" expanded="true" signature="328:365" ph="SELECT count... qacat" />
+            <marker date="1498551155615" expanded="true" signature="1337:1379" ph="INSERT INTO qacat... " />
+            <marker date="1498551155615" expanded="true" signature="1686:1730" ph="SELECT id FR... qacat" />
+            <marker date="1498551155615" expanded="true" signature="2396:2423" ph="SELECT nume,... qacat" />
+            <marker date="1498551155615" expanded="true" signature="2930:2955" ph="SELECT nume,... qacat" />
+            <marker date="1498551155615" expanded="true" signature="3856:3889" ph="SELECT page qacat" />
+            <marker date="1498551155615" expanded="true" signature="4258:4286" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="4592:4669" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="4629:4668" ph="SELECT id FR... qapost" />
+            <marker date="1498551155615" expanded="true" signature="4975:5011" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="5614:5642" ph="SELECT max(g... qapost" />
+            <marker date="1498551155615" expanded="true" signature="6061:6141" ph="INSERT INTO qapost... " />
+            <marker date="1498551155615" expanded="true" signature="6799:6839" ph="SELECT mesaj... qapost" />
+            <marker date="1498551155615" expanded="true" signature="7680:7726" ph="UPDATE qapos... " />
+            <marker date="1498551155615" expanded="true" signature="8092:8184" ph="SELECT subie... qapost" />
+            <marker date="1498551155615" expanded="true" signature="8642:8693" ph="SELECT * FRO... qapost" />
+            <marker date="1498551155615" expanded="true" signature="9109:9189" ph="INSERT INTO qapost... " />
+            <marker date="1498551155615" expanded="true" signature="9897:9941" ph="SELECT date,... " />
+            <marker date="1498551155615" expanded="true" signature="10652:10728" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="10693:10727" ph="SELECT grup qapost" />
+            <marker date="1498551155615" expanded="true" signature="11139:11211" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="11176:11210" ph="SELECT id FR... qapost" />
+            <marker date="1498551155615" expanded="true" signature="11555:11586" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="11941:11975" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="12314:12343" ph="DELETE FROM " />
+            <marker date="1498551155615" expanded="true" signature="12794:12829" ph="SELECT nume qacat" />
+            <marker date="1498551155615" expanded="true" signature="13441:13551" ph="SELECT count... qapost" />
+            <marker date="1498551155615" expanded="true" signature="13487:13534" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="13940:13973" ph="SELECT page qacat" />
+            <marker date="1498551155615" expanded="true" signature="14390:14526" ph="SELECT * FRO... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14448:14495" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14561:14953" ph="SELECT qp.id... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14665:14803" ph="SELECT qp.id... qapost" />
+            <marker date="1498551155615" expanded="true" signature="14868:14915" ph="SELECT min(d... qapost" />
+            <marker date="1498551155615" expanded="true" signature="15402:15416" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="15936:15947" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="16166:16180" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="17320:17334" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="17888:17965" ph="SELECT qc.nu... qacat" />
+            <marker date="1498551155615" expanded="true" signature="18569:18609" ph="SELECT count... qapost" />
+            <marker date="1498551155615" expanded="true" signature="19014:19072" ph="SELECT * FRO... qapost" />
+            <marker date="1498551155615" expanded="true" signature="19497:19508" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="19734:19748" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="22258:22272" ph="..." />
+            <marker date="1498551155615" expanded="true" signature="22779:22798" ph="SELECT * FRO... qacat" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/chestionare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6392">
+          <caret line="376" column="270" lean-forward="false" selection-start-line="376" selection-start-column="270" selection-end-line="376" selection-end-column="270" />
+          <folding>
+            <marker date="1498551291559" expanded="true" signature="326:377" ph="SELECT count... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="1384:1440" ph="INSERT INTO categorichestionare... " />
+            <marker date="1498551291559" expanded="true" signature="1759:1817" ph="SELECT id FR... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="2568:2607" ph="SELECT nume,... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="3273:3314" ph="SELECT nume,... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="4178:4225" ph="SELECT page categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="4622:4664" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="4976:5072" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="5030:5071" ph="SELECT id FR... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="5384:5472" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="5430:5471" ph="SELECT id FR... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="5784:5822" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="6431:6479" ph="SELECT count... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="6943:6957" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="7475:7581" ph="SELECT id,ti... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="7616:7951" ph="SELECT c.id,... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="7710:7868" ph="SELECT cc.id... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="8634:8645" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="8674:9767" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="8708:9541" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="8800:9049" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="9145:9509" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="9563:9743" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="9623:9732" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10385:10396" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10425:11316" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10459:11292" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10551:10800" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="10896:11260" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="11866:11877" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="11906:12797" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="11940:12773" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="12032:12281" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="12377:12741" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="13435:13449" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="14074:14121" ph="SELECT count... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="14507:14554" ph="SELECT page categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="14981:14995" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="15513:15618" ph="SELECT id,ti... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="15653:15987" ph="SELECT c.id,... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="15747:15905" ph="SELECT cc.id... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="16670:16681" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="16710:17803" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="16744:17577" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="16836:17085" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="17181:17545" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="17599:17779" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="17659:17768" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18427:18438" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18467:19358" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18501:19334" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18593:18842" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="18938:19302" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="19905:19916" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="19945:20836" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="19979:20812" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="20071:20320" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="20416:20780" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="21474:21488" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="22256:22343" ph="INSERT INTO chestionare... " />
+            <marker date="1498551291559" expanded="true" signature="22922:23035" ph="INSERT INTO intrebari... " />
+            <marker date="1498551291559" expanded="true" signature="23753:23795" ph="SELECT user_... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="24427:24478" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="24790:24833" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="25139:25173" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="25479:25522" ph="DELETE FROM " />
+            <marker date="1498551291559" expanded="true" signature="25997:26039" ph="SELECT user_... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="26450:26461" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="27016:27076" ph="SELECT titlu... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="27872:27918" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28144:28189" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28414:28461" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28660:28704" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="28874:28919" ph="SELECT * FRO... intrebari" />
+            <marker date="1498551291559" expanded="true" signature="31327:31384" ph="SELECT count... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="33469:33529" ph="SELECT titlu... chestionare" />
+            <marker date="1498551291559" expanded="true" signature="34300:34345" ph="SELECT * FRO... intrebari" />
+            <marker date="1498551291559" expanded="true" signature="34804:34816" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="36176:36188" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="36452:36464" ph="..." />
+            <marker date="1498551291559" expanded="true" signature="37960:38010" ph="SELECT corec... intrebari" />
+            <marker date="1498551291559" expanded="true" signature="38618:38701" ph="INSERT INTO rezultate... " />
+            <marker date="1498551291559" expanded="true" signature="39210:39281" ph="SELECT corec... rezultate" />
+            <marker date="1498551291559" expanded="true" signature="39920:39953" ph="SELECT * FRO... categorichestionare" />
+            <marker date="1498551291559" expanded="true" signature="40649:40694" ph="SELECT titlu... chestionare" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpscripts/changepass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
